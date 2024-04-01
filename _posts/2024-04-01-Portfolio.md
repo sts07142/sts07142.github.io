@@ -12,8 +12,6 @@ mermaid: false
 #   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-# [Portfolio] 유인재
-
 ## About ME
 - Name : Ryou InJae
 - Phone : 010-9122-5359
