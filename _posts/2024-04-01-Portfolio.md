@@ -1,8 +1,8 @@
 ---
 title: "[Portfolio] 유인재"
 date: 2024-04-01 12:00:00 +0900
-categories: [포트폴리오]
-tags: [portfolio, 포트폴리오]     # TAG names should always be lowercase
+categories: [포트폴리오, 유인재]
+tags: [포트폴리오]     # TAG names should always be lowercase
 pin: true
 math: false
 mermaid: false
