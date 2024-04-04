@@ -13,7 +13,7 @@ mermaid: false
 ---
 
 ## About ME
-- Name : Ryou InJae
+- Name : 유인재 (Ryou InJae)
 - Phone : 010-9122-5359
 - E-mail : sts07142@naver.com
 - Birth : 2001.01.12
@@ -26,28 +26,48 @@ mermaid: false
 
 - BDA <sup><a href="https://cafe.naver.com/officialbac">↗</a></sup> / 8기 데이터분석 전처리 적용반 학회원<sub>(2024.03 ~ )</sub>
   > 빅데이터학회 Big Data Analysis
-  > 
+  * 데이터 이상치 확인 및 제거
+  * 데이터 시각화 및 연관성 찾기
+  * 연관성 기준 파생변수 생성
+  * NLP 불용어 처리 및 전처리
+
+<br>
+
 - INC Lab. <sup><a href="https://sites.google.com/gachon.ac.kr/inclab">↗</a></sup> / Undergraduate RA <sub>(2023.03 ~ )</sub>
   > 지능정보통신연구실
-
-- K-디지털 챌린지: NET 챌린지 캠프<sub>시즌10</sub><sup><a href="https://koren.kr/kor/Alram/contyView.asp?s=17&page=1">↗</a></sup><b>은상</b> / 팀장<sub>(2023.07 ~ 2023.12)</sub></li>
-  > 네트워크 응용분야 아이디어 공모전 / 과학기술정보통신부 주최
-
-> 활동 소개 더 자세히
+  * WiFi CSI를 활용한 Human Activity Recognition(HAR) 연구
+    * Distributed WiFi Sensing System for Energy 
 
 ## Projects
 
 - DACON 소득 예측 AI 해커톤<sub>2024</sub><sup><a href="https://dacon.io/competitions/official/236230/overview/description">↗</a></sup><b></b> / 개인<sub>(2024.03 ~ 2023.04)</sub>
-  > 개인 특성 데이터를 활용하여 개인 소득 수준 예측<sup><a href="https://github.com/sts07142/DACON-Income-prediction">↗</a></sup>00위/000명
+  > 개인 특성 데이터를 활용하여 개인 소득 수준 예측<sup><a href="https://github.com/sts07142/DACON-Income-prediction">↗</a></sup>
+  * 
+<br>
 
 - DACON 고객 대출등급 분류 AI 해커톤<sub>2024</sub><sup><a href="https://dacon.io/competitions/official/236214/overview/description">↗</a></sup><b></b> / 개인<sub>(2024.01 ~ 2023.02)</sub>
-  > 고객 대출등급 예측<sup><a href="https://github.com/sts07142/DACON-Customer-Loan-Rating-Classification">↗</a></sup>107위/784명
+  > 개인 특성 데이터를 활용하여 고객 대출등급 예측<sup><a href="https://github.com/sts07142/DACON-Customer-Loan-Rating-Classification">↗</a></sup>
+  * 
+
+<br>
 
 - K-디지털 챌린지: NET 챌린지 캠프<sub>시즌10</sub><sup><a href="https://koren.kr/kor/Alram/contyView.asp?s=17&page=1">↗</a></sup> / 팀장<sub>(2023.07 ~ 2023.12)</sub>
-  >  다중 객체 추적 기술을 활용한 지능형 어린이집 안전 모니터링 시스템<sup><a href="https://github.com/sts07142/senior_project">↗</a></sup>은상 / 팀 GuardianWatch 
+  >  다중 객체 추적 기술을 활용한 지능형 어린이집 안전 모니터링 시스템<sup><a href="https://github.com/sts07142/senior_project">↗</a></sup>
+  * Re-ID 완화 알고리즘 개발 
+    * Re-ID : MOT과정 속에서 생기는 문제로, 동일한 객체가 새로운 객체로 오인식 되는 문제
+    * 스마트워치의 블루투스 신호값과, CCTV 영상 정보 활용
+    * 객체(원생)의 위치를 교차 확인하여, Re-ID 문제 완화
+  * MOT , 행동분석 모델 구축
+  * 객체(원생)의 부가정보 분석 (히트맵, 이동경로, 소비칼로리)
+  * CCTV 영상 그래픽화 *(개인정보 비식별처리)*
+  * 사용자 APP 개발
+
+<br>
 
 - SW중심대학 공동 AI 경진대회<sub>2023</sub><sup><a href="https://dacon.io/competitions/official/236092/overview/description">↗</a></sup><b></b> / 팀장<sub>(2023.07 ~ 2023.07)</sub>
-  > 위성 이미지의 건물 영역 분할<sup><a href="https://github.com/sts07142/DACON-Satellite-Image-Building-Area-Segmentation">↗</a></sup>57위/227팀 / 팀 AL* 
+  > 위성 이미지의 건물 영역 분할<sup><a href="https://github.com/sts07142/DACON-Satellite-Image-Building-Area-Segmentation">↗</a></sup>
+  * U-Net, EfficientNet, VGG16, ResNet50 모델 구축
+  * 1024<sup>2</sup> -> 224<sup>2</sup> 크기의 이미지로 분할 학습
+  * 학습 이미지 전처리 (rotate, brightness, RGB, CLAHE ...)
+  * 예측 이미지 후처리 (학습 건물 크기 기준 Contour Outlier 제거)
 
-
-> 프로젝트 소개 더 자세히
