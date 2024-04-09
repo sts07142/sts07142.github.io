@@ -1,7 +1,7 @@
 <div align="center">
 
-  # Injae's gitblog
+  # Injae's GitBlog
 
-  InJae's gitblog.
+  [GitBlog](https://sts07142.github.io/) 
 
 </div>
