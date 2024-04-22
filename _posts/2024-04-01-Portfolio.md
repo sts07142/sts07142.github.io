@@ -74,7 +74,7 @@ mermaid: false
 <hr>
 
 - <b>[은상]</b> K-디지털 챌린지: NET 챌린지 캠프<sub>시즌10</sub><sup><a href="https://koren.kr/kor/Alram/contyView.asp?s=17&page=1">↗</a></sup> / 팀장<sub>(2023.07 ~ 2023.12)</sub>
-  >  다중 객체 추적 기술을 활용한 지능형 어린이집 안전 모니터링 시스템<sup><a href="https://github.com/sts07142/senior_project">↗</a></sup>
+  >  다중 객체 추적 기술을 활용한 지능형 어린이집 안전 모니터링 시스템<sup><a href="https://github.com/sts07142/GuardianWatch">↗</a></sup>
 
   * MOT (ByteTrack + YoloX), 행동분석 (SlowR50) 모델 구축
   * Re-ID 완화 알고리즘 개발 
