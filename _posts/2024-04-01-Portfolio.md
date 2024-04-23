@@ -31,7 +31,7 @@ mermaid: false
 - INC Lab. <sup><a href="https://sites.google.com/gachon.ac.kr/inclab">↗</a></sup> / Undergraduate RA <sub>(2023.03 ~ )</sub>
   > 지능정보통신연구실
   * WiFi CSI를 활용한 Human Activity Recognition(HAR) 연구
-    * Distributed WiFi Sensing System for Energy 
+    * Distributed HAR WiFi Sensing System for Energy Efficiency
 
 ## Project
 
