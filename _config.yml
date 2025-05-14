@@ -70,7 +70,7 @@ theme_mode: dark # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://sts07142.github.io/"
+img_cdn: "https://sts07142.github.io"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/img/favicons/android-chrome-192x192.png"
